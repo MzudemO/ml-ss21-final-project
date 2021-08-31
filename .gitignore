@@ -1,0 +1,7 @@
+.envrc
+
+*.png
+*.json
+*.Identifier
+
+__pycache__/
