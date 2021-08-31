@@ -2,8 +2,7 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 
-# DATASET_PATH = os.environ["DATASET_PATH"] + "train/"
-DATASET_PATH = "/mnt/g/machine-learning/dataset/train/"
+DATASET_PATH = os.environ["DATASET_PATH"] + "train/"
 
 
 def training_distribution():
